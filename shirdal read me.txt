@@ -15,6 +15,9 @@ Magwell flaring designed by Taffy: Taffy shared his flared magwell from his pers
 
 Holdster support: Holdster mounting points have options for both left and right hand holdstering.
 
+You will need to rotate the the solenoid core, so the screws face to the left and the wires come out the bottom. See here for instructions on how to disassemble
+the solenoid: https://www.youtube.com/watch?v=REaVgvbfE9U
+
 
 Credits:
 
