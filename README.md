@@ -1,4 +1,8 @@
 # Shirdal-P4
+
+I've made V2 of this that is a hell of a lot better in basically every way. Get it here!: https://www.printables.com/model/508752-shirdal-p4-v2-nerf-gryphon-remix
+
+
 mini-solenoid gryphon sidearm
 
 Quick demo video here: https://www.youtube.com/watch?v=RJocRRf5rQo
